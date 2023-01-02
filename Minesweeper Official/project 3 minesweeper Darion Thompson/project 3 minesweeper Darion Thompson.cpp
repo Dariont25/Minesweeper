@@ -7,41 +7,6 @@
 #include "BoardSetup.h"
 using namespace std;
 
-
-
-
-
-//struct Tile
-//{
-//    bool isRevealed;
-//    bool isBomb;
-//    bool hasFlag;
-//    int numBombsNearTile;
-//};
-//
-//class Board
-//{
-//public:
-//    vector<vector<Tile>> board;
-//    unsigned int width;
-//    unsigned int height;
-//    int numBombs;
-//    int flagsUsed = 0;
-//    Board(int column, int rows, int numBombs) 
-//    {
-//        this->width = column * 32;
-//        this->height = (rows * 32) + 88; 
-//        this->numBombs = numBombs;
-//    }
-//};
-//struct BoardInfo
-//{
-//    int column = 0;
-//    int rows = 0;
-//    int height = 0;
-//    int width = 0;
-//    int numOfBombs = 0;
-//};
 int main()
 {
     
